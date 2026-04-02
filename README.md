@@ -1,5 +1,6 @@
 # LAB-7---Galerie-de-Stars-RecyclerView-Animations-et-Filtrage
 
+
 StarsGallery est une application Android permettant de visualiser une galerie de célébrités. L'application met en œuvre des concepts fondamentaux du développement Android : RecyclerView, filtrage dynamique, gestion d'images distantes/locales et animations.
 
 ## Fonctionnalités
@@ -26,7 +27,7 @@ StarsGallery est une application Android permettant de visualiser une galerie de
 
 ## Structure du Projet
 
-Le projet est organisé selon les packages suivants :
+- Le projet est organisé selon les packages suivants :
 
 •beans : Contient la classe Star (modèle de données).
 
