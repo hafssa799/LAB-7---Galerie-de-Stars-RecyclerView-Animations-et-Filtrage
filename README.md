@@ -1,7 +1,9 @@
 # LAB-7---Galerie-de-Stars-RecyclerView-Animations-et-Filtrage
 
 
-StarsGallery est une application Android permettant de visualiser une galerie de célébrités. L'application met en œuvre des concepts fondamentaux du développement Android : RecyclerView, filtrage dynamique, gestion d'images distantes/locales et animations.
+StarsGallery est une application Android permettant de visualiser une galerie de célébrités. L'application met en œuvre des concepts fondamentaux du développement Android : RecyclerView, 
+
+filtrage dynamique, gestion d'images distantes/locales et animations.
 
 ## Fonctionnalités
 
