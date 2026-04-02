@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black_toolbar">#212121</color> <!-- Noir mat -->
+    <color name="star_active">#009688</color>    <!-- Turquoise -->
+    <color name="star_inactive">#E0E0E0</color>  <!-- Gris -->
+</resources>
